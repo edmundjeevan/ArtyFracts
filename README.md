@@ -1,5 +1,6 @@
 # ArtyFracts.   
-![profile](https://user-images.githubusercontent.com/861675/158709515-77d32bed-2035-4e80-872f-6f52c72e0198.png)
+![cover](https://user-images.githubusercontent.com/861675/158709634-6395cc67-eb0a-48ed-bca6-94c52c158821.png)
+
 
 
 
