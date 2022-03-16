@@ -1,4 +1,7 @@
 # ArtyFracts.   
+![profile](https://user-images.githubusercontent.com/861675/158709515-77d32bed-2035-4e80-872f-6f52c72e0198.png)
+
+
 
 Solana Riptide Hackathon entry 
 
