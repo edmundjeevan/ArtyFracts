@@ -15,3 +15,4 @@ NFT holders become the new owners with exclusive access to view the painting at 
 Every subsequent sale of the masterpiece adds value to all the NFT holders.
 
 
+<img width="1422" alt="Screenshot 2022-03-17 at 03 06 46" src="https://user-images.githubusercontent.com/861675/158728857-1b343934-f9f2-44a2-9610-76506e25a165.png">
