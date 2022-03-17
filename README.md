@@ -6,7 +6,7 @@ https://www.loom.com/share/cfd7ad8812ef47bd800d0617dbecb8c6
 
 
 Team members 
-Edmund DSouza &  Salmain Haider 
+Edmund DSouza &  Salman Haider 
 
 ArtyFracts aims to fractionalise a real physical masterpiece painting into NFTs and Crowdfund its sale.
 
