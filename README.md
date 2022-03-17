@@ -30,4 +30,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <img width="1422" alt="Screenshot 2022-03-17 at 03 06 46" src="https://user-images.githubusercontent.com/861675/158791521-22a29b16-6f45-4959-b324-65df8a05c1b4.png">
 
+For Demo purposes we have created fractals of the Masterpiece Starry nights by Arist Van Gough. 
+Original painting is currently in New York Museum valued around 100 million USD.
 <img width="1105" alt="Screenshot 2022-03-17 at 11 15 48" src="https://user-images.githubusercontent.com/861675/158797806-afed346d-5b34-4950-b539-e3c4f2634c2d.png">
