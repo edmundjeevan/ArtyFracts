@@ -1,4 +1,6 @@
 # RipTide Hackathon Entry -Crowdfunding a real masterpiece with Solana 
+Team: Edmund DSouza and Salman Haider
+
 ![cover](https://user-images.githubusercontent.com/861675/158785634-1352acfa-1261-41f6-b8c1-c5705e9822fb.png)
 
 https://www.loom.com/share/cfd7ad8812ef47bd800d0617dbecb8c6
